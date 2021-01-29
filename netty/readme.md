@@ -2,7 +2,7 @@
 
 
 
-![Snipaste_2021-01-25_21-47-48](F:\projet\javaspring_example\netty\img\Snipaste_2021-01-25_21-47-48.png)
+![Snipaste_2021-01-25_21-47-48](img\Snipaste_2021-01-25_21-47-48.png)
 
 NettyConfig @bean (配置线程启动Nettyserver)
 
@@ -72,7 +72,7 @@ public class NettyConfig {
 
 
 
-![Snipaste_2021-01-26_21-21-50](F:\projet\javaspring_example\netty\img\Snipaste_2021-01-26_21-21-50.png)
+![Snipaste_2021-01-26_21-21-50](img\Snipaste_2021-01-26_21-21-50.png)
 
 ````xml
 eureka:
